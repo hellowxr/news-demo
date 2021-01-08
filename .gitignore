@@ -1,0 +1,8 @@
+# Default ignored files
+/.idea/
+/news-demo.iml
+/news-demo-service-user/news-demo-service-user.iml
+/news-demo-service-api/news-demo-service-api.iml
+/news-demo-model/news-demo-model.iml
+/news-demo-common/news-demo-common.iml
+
